@@ -1,4 +1,4 @@
-int finction addNumber(a, b) 
+int finction dedNumber(a, b) 
 {
-	return a+b;
+	return a-b;
 }
